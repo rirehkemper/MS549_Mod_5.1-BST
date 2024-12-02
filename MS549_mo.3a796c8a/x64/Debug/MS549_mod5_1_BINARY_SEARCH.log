@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\rireh\source\repos\MS549_mod5_1_BINARY_SEARCH\Main.cpp(54,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rireh\source\repos\MS549_mod5_1_BINARY_SEARCH\Main.cpp(101,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MS549_mod5_1_BINARY_SEARCH.vcxproj -> C:\Users\rireh\source\repos\MS549_mod5_1_BINARY_SEARCH\x64\Debug\MS549_mod5_1_BINARY_SEARCH.exe
